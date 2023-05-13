@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAYAKA-KINA
+- 👋 Hi, I’m @MAYAKA-KINA , form China
 - 👀 I’m interested in socialize and game production
 - 🌱 I’m currently learning C++ , C# and English
 - 💞️ I’m looking to collaborate on People who like to socialize and enjoy teamwork
