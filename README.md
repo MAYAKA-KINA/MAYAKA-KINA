@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++ , C# and English
 - 💞️ I’m looking to collaborate on People who like to socialize and enjoy teamwork
 - 📫 My  Discord is AXE#7566
+- 💼 I'm a Student
 
 <!---
 MAYAKA-KINA/MAYAKA-KINA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
